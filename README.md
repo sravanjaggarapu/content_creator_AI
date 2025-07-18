@@ -15,7 +15,7 @@ A simple web application built using **Flask** and **OpenAI API** that generates
 
 ## 🚀 Demo
 
-[image]
+[[image]](https://github.com/sravanjaggarapu/content_creator_AI/blob/4e655d22320a92fd2d5ad270d2d88900916e36fa/Screenshot%202025-07-18%20123045.png)
 
 ---
 
@@ -31,3 +31,16 @@ A simple web application built using **Flask** and **OpenAI API** that generates
 
 ## 📂 Project Structure
 
+├── app.py
+├── .env
+├── README.md
+
+
+---
+
+## ⚙️ Setup Instructions
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/sravanjaggarapu/content_creator_AI.git
+cd content_creator_AI
